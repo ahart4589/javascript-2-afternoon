@@ -76,7 +76,7 @@ console.log(backPack);
   After you do the above, alert your entire backPack object.
 */
 
-alert(backPack);
+// alert(backPack);
 
 
 
@@ -109,8 +109,9 @@ var user2 = {
   name -> 'Tyler S. McGinnis' and email -> 'tyler.mcginnis@devmounta.in'. 
   Make that change without modifying the original object code above.
 */
+user2.name = 'Tyler S. McGinnis';
+user2.email = 'tyler.mcginnis@devmounta.in';
 
-//Code Here
 
 
 
